@@ -15,7 +15,7 @@
         <div>
             <section class="corps"> 
                 <h1>
-                    Bienvenu!
+                    Bienvenue!
                 </h1>
                 <br>
                 <br>
