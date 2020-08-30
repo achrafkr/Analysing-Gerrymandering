@@ -1,0 +1,63 @@
+div.container{
+  max-width: 1920px;
+}
+
+
+body{
+  background-color: white;
+}
+
+.corps{
+
+  margin-top: 30px;
+  margin-left: 400px;
+  width: 800px;
+}
+
+.photo1{
+  margin-left: 50px;
+}
+
+.float {
+
+  float:left;
+}
+
+.par1{
+  width: 700px;
+}
+
+
+.title{
+  color: white;
+  font-size: 35px;
+	margin-left: 45px;
+	margin-bottom: 15px;
+	
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+    margin: 33.5px;
+    margin-top: -300px;
+    margin-left: 250px;
+    border-radius: 50px;
+}
+.animation{
+  margin: 15px;
+  border-radius: 25px;
+}
+
+#pic4{
+  margin-left: 200px;
+}
+
+.footercontent {
+  color: white;
+  text-align: center;
+}
+
+.csf{
+  margin-left: 250px;
+}
